@@ -1,0 +1,127 @@
+flight_id,day,departure_time,crew_id,crew_name,qualification,duration_hours
+FZ101,Monday,8:00,P001,Ahmed Al-Mansoori,Pilot,3
+FZ101,Monday,8:00,P002,Sara Ibrahim,Pilot,3
+FZ101,Monday,8:00,C001,Layla Ahmed,Cabin Crew,3
+FZ101,Monday,8:00,C002,Omar Zayed,Cabin Crew,3
+FZ101,Monday,8:00,C003,Mariam Ali,Cabin Crew,3
+FZ102,Monday,14:00,P001,Ahmed Al-Mansoori,Pilot,4
+FZ102,Monday,14:00,P002,Sara Ibrahim,Pilot,4
+FZ102,Monday,14:00,C001,Layla Ahmed,Cabin Crew,4
+FZ102,Monday,14:00,C002,Omar Zayed,Cabin Crew,4
+FZ102,Monday,14:00,C003,Mariam Ali,Cabin Crew,4
+FZ102,Monday,14:00,C004,Yousef Saeed,Cabin Crew,4
+FZ103,Tuesday,6:00,P001,Ahmed Al-Mansoori,Pilot,2
+FZ103,Tuesday,6:00,P002,Sara Ibrahim,Pilot,2
+FZ103,Tuesday,6:00,C001,Layla Ahmed,Cabin Crew,2
+FZ103,Tuesday,6:00,C002,Omar Zayed,Cabin Crew,2
+FZ103,Tuesday,6:00,C003,Mariam Ali,Cabin Crew,2
+FZ104,Tuesday,10:00,P001,Ahmed Al-Mansoori,Pilot,5
+FZ104,Tuesday,10:00,P002,Sara Ibrahim,Pilot,5
+FZ104,Tuesday,10:00,C001,Layla Ahmed,Cabin Crew,5
+FZ104,Tuesday,10:00,C002,Omar Zayed,Cabin Crew,5
+FZ104,Tuesday,10:00,C003,Mariam Ali,Cabin Crew,5
+FZ104,Tuesday,10:00,C004,Yousef Saeed,Cabin Crew,5
+FZ105,Tuesday,18:00,P001,Ahmed Al-Mansoori,Pilot,3
+FZ105,Tuesday,18:00,P002,Sara Ibrahim,Pilot,3
+FZ105,Tuesday,18:00,C001,Layla Ahmed,Cabin Crew,3
+FZ105,Tuesday,18:00,C002,Omar Zayed,Cabin Crew,3
+FZ105,Tuesday,18:00,C003,Mariam Ali,Cabin Crew,3
+FZ106,Wednesday,9:00,P001,Ahmed Al-Mansoori,Pilot,4
+FZ106,Wednesday,9:00,P002,Sara Ibrahim,Pilot,4
+FZ106,Wednesday,9:00,C001,Layla Ahmed,Cabin Crew,4
+FZ106,Wednesday,9:00,C002,Omar Zayed,Cabin Crew,4
+FZ106,Wednesday,9:00,C003,Mariam Ali,Cabin Crew,4
+FZ107,Wednesday,15:00,P001,Ahmed Al-Mansoori,Pilot,2
+FZ107,Wednesday,15:00,P002,Sara Ibrahim,Pilot,2
+FZ107,Wednesday,15:00,C001,Layla Ahmed,Cabin Crew,2
+FZ107,Wednesday,15:00,C002,Omar Zayed,Cabin Crew,2
+FZ107,Wednesday,15:00,C003,Mariam Ali,Cabin Crew,2
+FZ107,Wednesday,15:00,C004,Yousef Saeed,Cabin Crew,2
+FZ108,Thursday,8:00,P001,Ahmed Al-Mansoori,Pilot,6
+FZ108,Thursday,8:00,P002,Sara Ibrahim,Pilot,6
+FZ108,Thursday,8:00,C001,Layla Ahmed,Cabin Crew,6
+FZ108,Thursday,8:00,C002,Omar Zayed,Cabin Crew,6
+FZ108,Thursday,8:00,C003,Mariam Ali,Cabin Crew,6
+FZ108,Thursday,8:00,C004,Yousef Saeed,Cabin Crew,6
+FZ109,Thursday,16:00,P001,Ahmed Al-Mansoori,Pilot,3
+FZ109,Thursday,16:00,P002,Sara Ibrahim,Pilot,3
+FZ109,Thursday,16:00,C001,Layla Ahmed,Cabin Crew,3
+FZ109,Thursday,16:00,C002,Omar Zayed,Cabin Crew,3
+FZ109,Thursday,16:00,C003,Mariam Ali,Cabin Crew,3
+FZ110,Friday,6:00,P001,Ahmed Al-Mansoori,Pilot,4
+FZ110,Friday,6:00,P002,Sara Ibrahim,Pilot,4
+FZ110,Friday,6:00,C001,Layla Ahmed,Cabin Crew,4
+FZ110,Friday,6:00,C002,Omar Zayed,Cabin Crew,4
+FZ110,Friday,6:00,C003,Mariam Ali,Cabin Crew,4
+FZ111,Friday,12:00,P001,Ahmed Al-Mansoori,Pilot,2
+FZ111,Friday,12:00,P002,Sara Ibrahim,Pilot,2
+FZ111,Friday,12:00,C001,Layla Ahmed,Cabin Crew,2
+FZ111,Friday,12:00,C002,Omar Zayed,Cabin Crew,2
+FZ111,Friday,12:00,C003,Mariam Ali,Cabin Crew,2
+FZ111,Friday,12:00,C004,Yousef Saeed,Cabin Crew,2
+FZ112,Friday,20:00,P003,Mohammed Rashid,Pilot,3
+FZ112,Friday,20:00,P004,Fatima Hassan,Pilot,3
+FZ112,Friday,20:00,C004,Yousef Saeed,Cabin Crew,3
+FZ112,Friday,20:00,C005,Noor Khalifa,Cabin Crew,3
+FZ112,Friday,20:00,C006,Rashid Hamdan,Cabin Crew,3
+FZ113,Saturday,9:00,P003,Mohammed Rashid,Pilot,5
+FZ113,Saturday,9:00,P004,Fatima Hassan,Pilot,5
+FZ113,Saturday,9:00,C004,Yousef Saeed,Cabin Crew,5
+FZ113,Saturday,9:00,C005,Noor Khalifa,Cabin Crew,5
+FZ113,Saturday,9:00,C006,Rashid Hamdan,Cabin Crew,5
+FZ113,Saturday,9:00,C007,Aisha Mahmoud,Cabin Crew,5
+FZ114,Saturday,15:00,P003,Mohammed Rashid,Pilot,3
+FZ114,Saturday,15:00,P004,Fatima Hassan,Pilot,3
+FZ114,Saturday,15:00,C004,Yousef Saeed,Cabin Crew,3
+FZ114,Saturday,15:00,C005,Noor Khalifa,Cabin Crew,3
+FZ114,Saturday,15:00,C006,Rashid Hamdan,Cabin Crew,3
+FZ115,Sunday,8:00,P003,Mohammed Rashid,Pilot,4
+FZ115,Sunday,8:00,P004,Fatima Hassan,Pilot,4
+FZ115,Sunday,8:00,C004,Yousef Saeed,Cabin Crew,4
+FZ115,Sunday,8:00,C005,Noor Khalifa,Cabin Crew,4
+FZ115,Sunday,8:00,C006,Rashid Hamdan,Cabin Crew,4
+FZ115,Sunday,8:00,C007,Aisha Mahmoud,Cabin Crew,4
+FZ116,Sunday,14:00,P001,Ahmed Al-Mansoori,Pilot,2
+FZ116,Sunday,14:00,P002,Sara Ibrahim,Pilot,2
+FZ116,Sunday,14:00,C001,Layla Ahmed,Cabin Crew,2
+FZ116,Sunday,14:00,C002,Omar Zayed,Cabin Crew,2
+FZ116,Sunday,14:00,C003,Mariam Ali,Cabin Crew,2
+FZ117,Monday,10:00,P003,Mohammed Rashid,Pilot,3
+FZ117,Monday,10:00,P004,Fatima Hassan,Pilot,3
+FZ117,Monday,10:00,C004,Yousef Saeed,Cabin Crew,3
+FZ117,Monday,10:00,C005,Noor Khalifa,Cabin Crew,3
+FZ117,Monday,10:00,C006,Rashid Hamdan,Cabin Crew,3
+FZ118,Tuesday,12:00,P003,Mohammed Rashid,Pilot,4
+FZ118,Tuesday,12:00,P004,Fatima Hassan,Pilot,4
+FZ118,Tuesday,12:00,C005,Noor Khalifa,Cabin Crew,4
+FZ118,Tuesday,12:00,C006,Rashid Hamdan,Cabin Crew,4
+FZ118,Tuesday,12:00,C007,Aisha Mahmoud,Cabin Crew,4
+FZ119,Wednesday,6:00,P003,Mohammed Rashid,Pilot,2
+FZ119,Wednesday,6:00,P004,Fatima Hassan,Pilot,2
+FZ119,Wednesday,6:00,C004,Yousef Saeed,Cabin Crew,2
+FZ119,Wednesday,6:00,C005,Noor Khalifa,Cabin Crew,2
+FZ119,Wednesday,6:00,C006,Rashid Hamdan,Cabin Crew,2
+FZ120,Thursday,10:00,P003,Mohammed Rashid,Pilot,5
+FZ120,Thursday,10:00,P004,Fatima Hassan,Pilot,5
+FZ120,Thursday,10:00,C005,Noor Khalifa,Cabin Crew,5
+FZ120,Thursday,10:00,C006,Rashid Hamdan,Cabin Crew,5
+FZ120,Thursday,10:00,C007,Aisha Mahmoud,Cabin Crew,5
+FZ121,Friday,9:00,P003,Mohammed Rashid,Pilot,3
+FZ121,Friday,9:00,P004,Fatima Hassan,Pilot,3
+FZ121,Friday,9:00,C005,Noor Khalifa,Cabin Crew,3
+FZ121,Friday,9:00,C006,Rashid Hamdan,Cabin Crew,3
+FZ121,Friday,9:00,C007,Aisha Mahmoud,Cabin Crew,3
+FZ122,Saturday,8:00,P003,Mohammed Rashid,Pilot,4
+FZ122,Saturday,8:00,P004,Fatima Hassan,Pilot,4
+FZ122,Saturday,8:00,C005,Noor Khalifa,Cabin Crew,4
+FZ122,Saturday,8:00,C006,Rashid Hamdan,Cabin Crew,4
+FZ122,Saturday,8:00,C007,Aisha Mahmoud,Cabin Crew,4
+FZ123,Saturday,18:00,P003,Mohammed Rashid,Pilot,2
+FZ123,Saturday,18:00,P004,Fatima Hassan,Pilot,2
+FZ123,Saturday,18:00,C005,Noor Khalifa,Cabin Crew,2
+FZ123,Saturday,18:00,C006,Rashid Hamdan,Cabin Crew,2
+FZ123,Saturday,18:00,C007,Aisha Mahmoud,Cabin Crew,2
+FZ124,Sunday,10:00,P005,Khalid Omar,Pilot,3
+FZ124,Sunday,10:00,C007,Aisha Mahmoud,Cabin Crew,3
+FZ125,Sunday,16:00,P005,Khalid Omar,Pilot,4
+FZ125,Sunday,16:00,C007,Aisha Mahmoud,Cabin Crew,4

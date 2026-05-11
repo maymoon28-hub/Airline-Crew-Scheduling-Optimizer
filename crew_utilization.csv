@@ -1,0 +1,13 @@
+crew_id,crew_name,qualification,hours_worked,max_hours,utilization_percent,flights_assigned
+P001,Ahmed Al-Mansoori,Pilot,40,40,100.0,12
+P002,Sara Ibrahim,Pilot,40,40,100.0,12
+P003,Mohammed Rashid,Pilot,38,40,95.0,11
+P004,Fatima Hassan,Pilot,38,40,95.0,11
+P005,Khalid Omar,Pilot,7,40,17.5,2
+C001,Layla Ahmed,Cabin Crew,40,40,100.0,12
+C002,Omar Zayed,Cabin Crew,40,40,100.0,12
+C003,Mariam Ali,Cabin Crew,40,40,100.0,12
+C004,Yousef Saeed,Cabin Crew,39,40,97.5,11
+C005,Noor Khalifa,Cabin Crew,38,40,95.0,11
+C006,Rashid Hamdan,Cabin Crew,38,40,95.0,11
+C007,Aisha Mahmoud,Cabin Crew,34,40,85.0,9
