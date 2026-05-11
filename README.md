@@ -69,7 +69,7 @@ These metrics are surfaced in the Excel dashboard to provide a quick overview of
 ├── output/
 │   ├── crew_assignments.csv
 │   ├── crew_utilization.csv
-│   └── crew_scheduling_dashboard.xlsx   # Excel dashboard
+│   └── crew_schedule_dashboard.xlsx   # Excel dashboard
 ├── crew_scheduler.py
 └── README.md
 ```
