@@ -1,0 +1,4 @@
+constraint_type,value,unit
+Maximum Weekly Hours,40,hours
+Minimum Rest Between Flights,10,hours
+Maximum Consecutive Flights,3,flights
